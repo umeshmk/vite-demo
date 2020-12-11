@@ -1,6 +1,6 @@
 <template>
   <div class="comp">
-    <div class="nested">This is a Tailwind component.</div>
+    <div class="red">This is a Tailwind component.</div>
   </div>
 </template>
 

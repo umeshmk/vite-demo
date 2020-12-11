@@ -16,16 +16,6 @@
   },
   "extensions": {
     "recommendations": [
-      // ---- All
-      "wscats.html-snippets",
-      "GitHub.github-vscode-theme",
-      "vscode-icons-team.vscode-icons",
-      "esbenp.prettier-vscode",
-      "christian-kohler.path-intellisense",
-      "coenraads.bracket-pair-colorizer-2",
-      "oderwat.indent-rainbow",
-      "mikestead.dotenv",
-      "austenc.laravel-blade-spacer",
       // ----- Html
       // "ritwickdey.liveserver",
       // "ecmel.vscode-html-css",
