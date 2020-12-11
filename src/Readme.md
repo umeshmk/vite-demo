@@ -1,6 +1,6 @@
 # Vite Demo
 
-This project uses
+This project uses :
 
 1. Vite
 2. Vue 3
