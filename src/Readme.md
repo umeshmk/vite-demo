@@ -1,5 +1,7 @@
 # Vite Demo
 
+> Can be used for quick scaffolding a Vue3 project.
+
 This project uses :
 
 1. Vite
